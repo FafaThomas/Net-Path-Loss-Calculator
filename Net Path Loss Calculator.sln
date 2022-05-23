@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Net Path Loss Calculator", "Net Path Loss Calculator\Net Path Loss Calculator.pyproj", "{DE2A353C-056F-4F2A-90CD-543A45AA8B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2A353C-056F-4F2A-90CD-543A45AA8B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2A353C-056F-4F2A-90CD-543A45AA8B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF71A084-442A-48AF-8A95-46CD831F0CFC}
+	EndGlobalSection
+EndGlobal
